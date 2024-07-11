@@ -38,7 +38,7 @@ id,Item_Outlet_Sales
 ```
 
 ## Timing
-**17 June, 2024** - Start of Kaggle Competition
-**17 June, 2024, 17:00 (Kyiv timezone)** - Intro Webinar about Kaggle Competition
-**25 June, 2024, 17:00 (Kyiv timezone)** - Q&A session about Kaggle
-**1 July, 2024, 23:59 (UTC)** - End of Kaggle Competition
+**17 June, 2024** - Start of Kaggle Competition  
+**17 June, 2024, 17:00 (Kyiv timezone)** - Intro Webinar about Kaggle Competition  
+**25 June, 2024, 17:00 (Kyiv timezone)** - Q&A session about Kaggle  
+**1 July, 2024, 23:59 (UTC)** - End of Kaggle Competition  
